@@ -13,4 +13,8 @@ YouTube Clone is a React web application that replicates the core features of Yo
 - Responsive design for optimal viewing experience on various devices.
 - Integration with the YouTube API for real-time video data.
 
+## Tech stack
+- React
+- Material UI
+
 This project is my implementation of the JavaScript Mastery Tutorial: https://www.youtube.com/watch?v=FHTbsZEJspU
